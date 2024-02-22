@@ -282,6 +282,7 @@ body {
 @media screen and (max-width: 799px) {
   .mainHeading {
     padding: 0 20px;
+    width: 106%;
   }
 }
 .mainHeading__content {
